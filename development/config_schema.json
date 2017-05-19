@@ -1,0 +1,16 @@
+{
+    "TWITTER_CREDENTIALS" : {
+        "APP_KEY" : "xxx",
+        "APP_SECRET" : "xxx",
+        "ACCESS_TOKEN" : "xxx",
+        "ACCESS_TOKEN_SECRET" : "xxx"
+    },
+
+    "MYSQL_DB_CONNECTOR" : {
+        "host" : "host",
+        "user" : "user",
+        "password" : "****",
+        "db" : "db",
+        "charset" : "charset"
+    }
+}
